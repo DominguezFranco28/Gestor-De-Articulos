@@ -10,7 +10,7 @@ Base de Datos: SQL Server Express (Consultas relacionales).
 
 Arquitectura: Separación estricta en N-Capas para garantizar escalabilidad del código y mantenimiento.
 
-Integración IA: Desarrollo asistido por IA (Copilot/Claude) para la optimización de consultas SQL y refactorización de la capa de acceso a datos.
+Integración IA: Desarrollo asistido por IA (Copilot/Gemini) para la optimización de consultas SQL y refactorización de la capa de acceso a datos.
 
 ## Ventana Detalle
 ![Detalle](screenshoots/Detallepng.png)
